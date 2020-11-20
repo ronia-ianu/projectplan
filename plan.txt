@@ -6,3 +6,5 @@
 - Do implimentation
 -Do testung
 -Deployment
+
+Being wealth is the goal of the project. 
