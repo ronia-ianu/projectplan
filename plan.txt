@@ -4,5 +4,6 @@
 - Do requirements analysis
 - Do Use case analysis
 - Do implimentation
--Do testung
 -Deployment
+- Do testing
+- Sell before deployment
