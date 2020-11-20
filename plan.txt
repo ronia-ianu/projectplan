@@ -3,3 +3,4 @@
 - Conduct Interview
 - Do requirements analysis
 - Do implimentation
+- Do testing
